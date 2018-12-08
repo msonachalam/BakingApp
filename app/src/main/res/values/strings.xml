@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="error_message">Error in retrieving. Please try again</string>
+    <string name="network_error">Sorry, unable to retrieve recipes.</string>
+    <string name="recipe_list_key">recipe_list_key</string>
+    <string name="step_list_key">step_list_key</string>
+    <string name="ingredients_label">Ingredients :</string>
+    <string name="steps_label">Steps :</string>
+    <string name="ingredients_widget_message">Click here for ingredients</string>
+    <string name="appwidget_text">Ingredients appears after app launch</string>
+</resources>

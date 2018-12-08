@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textPadding">20dp</dimen>
+    <dimen name="imageElevation">2dp</dimen>
+    <dimen name="detailsPadding">10dp</dimen>
+    <dimen name="cardMargin">8dp</dimen>
+    <dimen name="widgetMargin">0dp</dimen>
+</resources>
